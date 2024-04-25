@@ -1,2 +1,2 @@
 # Warehouse
-As part of the war, we established a system to manage donations of food products for soldiers and civilians
+As part of the war, we established a system to manage donations of food products for soldiers and civilians using cpp and docker technology.
